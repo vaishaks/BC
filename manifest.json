@@ -1,0 +1,17 @@
+{
+	"name": "[BC]Buy and Compare",
+	"version": "1.0",
+	"description": "The user inputs the item he is looking for. The extension searches for the item in 4 popular shopping sites and opens them in 4 chrome tabs",
+	"browser_action": 
+	{
+		"default_icon": "icon.png",
+		"popup": "search.html"
+	},
+	"icons":
+	{
+		"icon": "icon.png"
+	},
+	"permissions": ["tabs"]
+	
+}
+	

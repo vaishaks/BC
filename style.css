@@ -1,0 +1,21 @@
+#box
+ {
+	width:220px;
+	height:50px;
+	font-family:"comic sans ms";
+	font-size:14px;
+}
+#button 
+{
+	 float:right;
+	 background-image:url(button.png);
+	 background-repeat:no-repeat;
+	 width:50px;
+	 height:50px;
+	 margin-top:0px;
+	 cursor:pointer;
+	 color:#111111;
+	 position:fixed;
+	 top:10px;
+	 right:5px;
+}
